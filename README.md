@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Nabeil, but online I go by Computeraccow.
+
+I am currently working on a personal project, using multiple private github repos as a way to sync files on one Obsidian vault.
+I have never used git or github prior to this, but so far it has been a fun (but challenging) experience to say the least.
